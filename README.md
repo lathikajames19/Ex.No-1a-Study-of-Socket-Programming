@@ -1,6 +1,6 @@
 # Ex.No-1a-Study-of-Socket-Programming
-## Developed by : DEEPADHARSHINI T	 
-## Reg No : 212224230052
+## Developed by :LATHIKA .K
+## Reg No : 212224230140
 ## Aim: 
 To perform a study on Socket Programming
 
